@@ -27,7 +27,7 @@ Replicates the various data visualizations across manuscrpit. Multiple Data anal
 7. [Fig. 4](Data_Publications/Analysis_Code/Cluster.R) ~ Use Cluster.R in R. Recreates Figure 4 and extend figure 4,5 and 7. It first begins with Extend figure 7 with the clustering using  DBSCAN to identify major outlies. Then Silloute to cluster on the remaining using a kmedians which is sensitive to outliers. Combining this imformation we produce Figure 4.
 ![alt text](Data_Publications/Pictures/image-3.png)
 8. [Fig 5](Data_Publications/Pictures/Graph.gph) ~ Use Pictures/Graph.gph. Stata file to pull up graph of grouping parks
-![alt text](image-4.png)
+![alt text](Data_Publications/Pictures/image-4.png)
 9. [Fig6](Data_Publications/Analysis_Code/Figure6.do) ~ Use Analysis_Code/Figure 6.do. Stata coefficient plots based on grouping from fig 4.
 ![alt text](Data_Publications/Pictures/image-5.png)
 
