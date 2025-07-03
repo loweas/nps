@@ -1,0 +1,362 @@
+"","Viral","Year","ParkName","max_likes","max_influ"
+"1","High",2010,"Yosemite",0,0
+"2","High",2010,"Zion",11,0
+"3","High",2011,"Yosemite",346,2
+"4","High",2011,"Zion",32,24
+"5","High",2012,"Yosemite",1332,6
+"6","High",2012,"Zion",400,19
+"7","High",2013,"Yosemite",2628,29
+"8","High",2013,"Zion",1212,23
+"9","High",2014,"Yosemite",48749,312
+"10","High",2014,"Zion",25363,360
+"11","High",2015,"Yosemite",111297,996
+"12","High",2015,"Zion",60797,1003
+"13","High",2016,"Yosemite",269148,5034
+"14","High",2016,"Zion",373822,10760
+"15","High",2017,"Yosemite",575417,30236
+"16","High",2017,"Zion",455460,21054
+"17","High",2018,"Yosemite",997307,41329
+"18","High",2018,"Zion",514854,21050
+"19","High",2019,"Yosemite",1235720,28975
+"20","High",2019,"Zion",1869267,12070
+"21","Low",2010,"Grt. Sand D. ",3,0
+"22","Low",2011,"Acadia",13,0
+"23","Low",2011,"Badlands",20,0
+"24","Low",2011,"Big Bend",4,0
+"25","Low",2011,"Canyonlands",64,0
+"26","Low",2011,"Carlsbad C.",11,0
+"27","Low",2011,"Crater Lake",13,0
+"28","Low",2011,"Cuyahoga V.",23,1
+"29","Low",2011,"Everglades",861,0
+"30","Low",2011,"Grt. Sand D. ",18,1
+"31","Low",2011,"Guadalupe Mts",2,0
+"32","Low",2011,"Hot Springs",32,1
+"33","Low",2011,"Lassen V.",1,3
+"34","Low",2011,"Mammoth C.",5,0
+"35","Low",2011,"Mesa Verde",2,0
+"36","Low",2011,"Petrified F.",14,0
+"37","Low",2011,"Redwood",5,0
+"38","Low",2011,"Saguaro",89,0
+"39","Low",2011,"Shenandoah",62,0
+"40","Low",2011,"T. Roosevelt",55,0
+"41","Low",2011,"Yellowstone",60,0
+"42","Low",2012,"Acadia",4678,10
+"43","Low",2012,"Badlands",554,9
+"44","Low",2012,"Big Bend",69,0
+"45","Low",2012,"Black Canyon ",7,2
+"46","Low",2012,"Canyonlands",2095,1
+"47","Low",2012,"Capitol Reef",79,0
+"48","Low",2012,"Carlsbad C.",3,0
+"49","Low",2012,"Crater Lake",232,3
+"50","Low",2012,"Cuyahoga V.",380,2
+"51","Low",2012,"Everglades",268,1
+"52","Low",2012,"Grt. Basin",333,0
+"53","Low",2012,"Grt. Sand D. ",1288,23
+"54","Low",2012,"Guadalupe Mts",8,0
+"55","Low",2012,"Hot Springs",723,1
+"56","Low",2012,"Lassen V.",10,0
+"57","Low",2012,"Mammoth C.",66,5
+"58","Low",2012,"Mesa Verde",680,1
+"59","Low",2012,"N. Cascades",197,3
+"60","Low",2012,"Petrified F.",30,0
+"61","Low",2012,"Redwood",719,4
+"62","Low",2012,"Saguaro",351,42
+"63","Low",2012,"Shenandoah",89,0
+"64","Low",2012,"T. Roosevelt",86,1
+"65","Low",2012,"Wind C.",698,0
+"66","Low",2012,"Yellowstone",6009,6
+"67","Low",2013,"Acadia",1837,40
+"68","Low",2013,"Badlands",8417,6
+"69","Low",2013,"Big Bend",161,5
+"70","Low",2013,"Black Canyon ",76,2
+"71","Low",2013,"Canyonlands",596,12
+"72","Low",2013,"Capitol Reef",222,0
+"73","Low",2013,"Carlsbad C.",51,0
+"74","Low",2013,"Crater Lake",304,19
+"75","Low",2013,"Cuyahoga V.",263,23
+"76","Low",2013,"Everglades",956,25
+"77","Low",2013,"Grt. Basin",239,4
+"78","Low",2013,"Grt. Sand D. ",1406,48
+"79","Low",2013,"Guadalupe Mts",176,1
+"80","Low",2013,"Hot Springs",6104,6
+"81","Low",2013,"Lassen V.",195,0
+"82","Low",2013,"Mammoth C.",338,19
+"83","Low",2013,"Mesa Verde",412,0
+"84","Low",2013,"N. Cascades",1154,7
+"85","Low",2013,"Petrified F.",1114,2
+"86","Low",2013,"Redwood",1506,48
+"87","Low",2013,"Saguaro",2456,34
+"88","Low",2013,"Shenandoah",1430,17
+"89","Low",2013,"T. Roosevelt",1672,20
+"90","Low",2013,"Wind C.",1575,8
+"91","Low",2013,"Yellowstone",4874,24
+"92","Low",2014,"Acadia",14647,258
+"93","Low",2014,"Badlands",176756,29
+"94","Low",2014,"Big Bend",615,60
+"95","Low",2014,"Black Canyon ",2250,14
+"96","Low",2014,"Canyonlands",19154,142
+"97","Low",2014,"Capitol Reef",1107,2
+"98","Low",2014,"Carlsbad C.",533,16
+"99","Low",2014,"Crater Lake",16781,125
+"100","Low",2014,"Cuyahoga V.",14426,139
+"101","Low",2014,"Everglades",13888,125
+"102","Low",2014,"Grt. Basin",690,17
+"103","Low",2014,"Grt. Sand D. ",11918,112
+"104","Low",2014,"Guadalupe Mts",483,29
+"105","Low",2014,"Hot Springs",17448,95
+"106","Low",2014,"Lassen V.",13346,67
+"107","Low",2014,"Mammoth C.",554,38
+"108","Low",2014,"Mesa Verde",1107,46
+"109","Low",2014,"N. Cascades",18052,122
+"110","Low",2014,"Petrified F.",2952,11
+"111","Low",2014,"Redwood",132622,78
+"112","Low",2014,"Saguaro",15612,130
+"113","Low",2014,"Shenandoah",2860,63
+"114","Low",2014,"T. Roosevelt",13029,18
+"115","Low",2014,"Wind C.",248,5
+"116","Low",2014,"Yellowstone",156582,195
+"117","Low",2015,"Acadia",50656,763
+"118","Low",2015,"Badlands",27280,260
+"119","Low",2015,"Big Bend",39272,209
+"120","Low",2015,"Black Canyon ",29634,170
+"121","Low",2015,"Canyonlands",30411,548
+"122","Low",2015,"Capitol Reef",646,18
+"123","Low",2015,"Carlsbad C.",1042,60
+"124","Low",2015,"Crater Lake",111108,392
+"125","Low",2015,"Cuyahoga V.",27192,654
+"126","Low",2015,"Everglades",25358,375
+"127","Low",2015,"Grt. Basin",25624,207
+"128","Low",2015,"Grt. Sand D. ",23682,377
+"129","Low",2015,"Guadalupe Mts",3809,173
+"130","Low",2015,"Hot Springs",297001,424
+"131","Low",2015,"Lassen V.",21695,334
+"132","Low",2015,"Mammoth C.",1356,117
+"133","Low",2015,"Mesa Verde",843,197
+"134","Low",2015,"N. Cascades",38308,660
+"135","Low",2015,"Petrified F.",1686,161
+"136","Low",2015,"Redwood",36074,289
+"137","Low",2015,"Saguaro",24237,471
+"138","Low",2015,"Shenandoah",82395,149
+"139","Low",2015,"T. Roosevelt",2375,166
+"140","Low",2015,"Wind C.",2045,2
+"141","Low",2015,"Yellowstone",296964,780
+"142","Low",2016,"Acadia",284010,4419
+"143","Low",2016,"Badlands",38732,520
+"144","Low",2016,"Big Bend",159201,1386
+"145","Low",2016,"Black Canyon ",56472,696
+"146","Low",2016,"Canyonlands",283792,3027
+"147","Low",2016,"Capitol Reef",2929,199
+"148","Low",2016,"Carlsbad C.",1652,71
+"149","Low",2016,"Crater Lake",458431,1913
+"150","Low",2016,"Cuyahoga V.",26945,1833
+"151","Low",2016,"Everglades",422849,1656
+"152","Low",2016,"Grt. Basin",144266,690
+"153","Low",2016,"Grt. Sand D. ",180989,2059
+"154","Low",2016,"Guadalupe Mts",181508,662
+"155","Low",2016,"Hot Springs",131250,2158
+"156","Low",2016,"Lassen V.",296057,1957
+"157","Low",2016,"Mammoth C.",122220,197
+"158","Low",2016,"Mesa Verde",18619,366
+"159","Low",2016,"N. Cascades",299000,2629
+"160","Low",2016,"Petrified F.",24612,1010
+"161","Low",2016,"Redwood",177598,1622
+"162","Low",2016,"Saguaro",116417,1611
+"163","Low",2016,"Shenandoah",50312,745
+"164","Low",2016,"T. Roosevelt",30957,1384
+"165","Low",2016,"Wind C.",23707,266
+"166","Low",2016,"Yellowstone",428248,2651
+"167","Low",2017,"Acadia",101265,6538
+"168","Low",2017,"Badlands",87141,304
+"169","Low",2017,"Big Bend",39684,4073
+"170","Low",2017,"Black Canyon ",264371,1358
+"171","Low",2017,"Canyonlands",350921,6082
+"172","Low",2017,"Capitol Reef",4096,59
+"173","Low",2017,"Carlsbad C.",4456,466
+"174","Low",2017,"Crater Lake",229081,3224
+"175","Low",2017,"Cuyahoga V.",44527,2358
+"176","Low",2017,"Everglades",298105,3025
+"177","Low",2017,"Grt. Basin",146313,998
+"178","Low",2017,"Grt. Sand D. ",500147,4076
+"179","Low",2017,"Guadalupe Mts",42786,1213
+"180","Low",2017,"Hot Springs",66358,1297
+"181","Low",2017,"Lassen V.",42990,2187
+"182","Low",2017,"Mammoth C.",28647,120
+"183","Low",2017,"Mesa Verde",10825,108
+"184","Low",2017,"N. Cascades",315014,5053
+"185","Low",2017,"Petrified F.",28758,1013
+"186","Low",2017,"Redwood",301780,2335
+"187","Low",2017,"Saguaro",194159,2399
+"188","Low",2017,"Shenandoah",45989,4094
+"189","Low",2017,"T. Roosevelt",46317,398
+"190","Low",2017,"Wind C.",346087,640
+"191","Low",2017,"Yellowstone",43863,2551
+"192","Low",2018,"Acadia",61842,6353
+"193","Low",2018,"Badlands",105622,2406
+"194","Low",2018,"Big Bend",132743,3894
+"195","Low",2018,"Black Canyon ",341852,1204
+"196","Low",2018,"Canyonlands",238978,5411
+"197","Low",2018,"Capitol Reef",3779,84
+"198","Low",2018,"Carlsbad C.",926178,980
+"199","Low",2018,"Crater Lake",352533,3556
+"200","Low",2018,"Cuyahoga V.",43590,2641
+"201","Low",2018,"Everglades",755131,3308
+"202","Low",2018,"Grt. Basin",59214,707
+"203","Low",2018,"Grt. Sand D. ",510526,3479
+"204","Low",2018,"Guadalupe Mts",926105,1052
+"205","Low",2018,"Hot Springs",196669,2042
+"206","Low",2018,"Lassen V.",34356,2163
+"207","Low",2018,"Mammoth C.",25308,322
+"208","Low",2018,"Mesa Verde",16555,648
+"209","Low",2018,"N. Cascades",216024,5705
+"210","Low",2018,"Petrified F.",162082,983
+"211","Low",2018,"Redwood",60742,2246
+"212","Low",2018,"Saguaro",61428,2797
+"213","Low",2018,"Shenandoah",88544,3986
+"214","Low",2018,"T. Roosevelt",32289,1330
+"215","Low",2018,"Wind C.",58707,594
+"216","Low",2018,"Yellowstone",472793,3023
+"217","Low",2019,"Acadia",80977,3948
+"218","Low",2019,"Badlands",89258,2406
+"219","Low",2019,"Big Bend",46391,2980
+"220","Low",2019,"Black Canyon ",68777,857
+"221","Low",2019,"Canyonlands",144401,3211
+"222","Low",2019,"Capitol Reef",41656,140
+"223","Low",2019,"Carlsbad C.",31318,604
+"224","Low",2019,"Crater Lake",102649,2072
+"225","Low",2019,"Cuyahoga V.",63032,1576
+"226","Low",2019,"Everglades",95689,2223
+"227","Low",2019,"Grt. Basin",78407,448
+"228","Low",2019,"Grt. Sand D. ",103859,2245
+"229","Low",2019,"Guadalupe Mts",76913,644
+"230","Low",2019,"Hot Springs",53475,1231
+"231","Low",2019,"Lassen V.",161732,1667
+"232","Low",2019,"Mammoth C.",2100,484
+"233","Low",2019,"Mesa Verde",38770,902
+"234","Low",2019,"N. Cascades",107021,3847
+"235","Low",2019,"Petrified F.",68968,600
+"236","Low",2019,"Redwood",141506,1415
+"237","Low",2019,"Saguaro",72275,2158
+"238","Low",2019,"Shenandoah",63723,3206
+"239","Low",2019,"T. Roosevelt",146267,1057
+"240","Low",2019,"Wind C.",64251,487
+"241","Low",2019,"Yellowstone",264653,10872
+"242","Mid",2010,"Bryce Canyon",13,0
+"243","Mid",2010,"Gd. Canyon",0,0
+"244","Mid",2010,"Joshua Tree",0,0
+"245","Mid",2010,"Rocky Mt",4,0
+"246","Mid",2011,"Arches",925,2
+"247","Mid",2011,"Bryce Canyon",119,1
+"248","Mid",2011,"Death V.",16,0
+"249","Mid",2011,"Gd. Canyon",373,0
+"250","Mid",2011,"Gd. Teton",18,0
+"251","Mid",2011,"Grt. Smoky Mts",0,0
+"252","Mid",2011,"Joshua Tree",43,0
+"253","Mid",2011,"Kings Canyon",15,0
+"254","Mid",2011,"Mt Rainier",2,0
+"255","Mid",2011,"Olympic",3,0
+"256","Mid",2011,"Rocky Mt",22,0
+"257","Mid",2011,"Sequoia",373,0
+"258","Mid",2012,"Arches",6043,40
+"259","Mid",2012,"Bryce Canyon",953,6
+"260","Mid",2012,"Death V.",584,0
+"261","Mid",2012,"Gd. Canyon",729,5
+"262","Mid",2012,"Gd. Teton",1333,13
+"263","Mid",2012,"Glacier",151,0
+"264","Mid",2012,"Grt. Smoky Mts",51,2
+"265","Mid",2012,"Joshua Tree",2451,5
+"266","Mid",2012,"Kings Canyon",733,11
+"267","Mid",2012,"Mt Rainier",35,0
+"268","Mid",2012,"Olympic",452,4
+"269","Mid",2012,"Rocky Mt",1068,41
+"270","Mid",2012,"Sequoia",366,1
+"271","Mid",2013,"Arches",2206,108
+"272","Mid",2013,"Bryce Canyon",1731,61
+"273","Mid",2013,"Death V.",7924,22
+"274","Mid",2013,"Gd. Canyon",2346,35
+"275","Mid",2013,"Gd. Teton",533,37
+"276","Mid",2013,"Glacier",240,2
+"277","Mid",2013,"Grt. Smoky Mts",177,1
+"278","Mid",2013,"Joshua Tree",2358,56
+"279","Mid",2013,"Kings Canyon",5969,55
+"280","Mid",2013,"Mt Rainier",456,3
+"281","Mid",2013,"Olympic",422,4
+"282","Mid",2013,"Rocky Mt",1156,46
+"283","Mid",2013,"Sequoia",358,2
+"284","Mid",2014,"Arches",92698,295
+"285","Mid",2014,"Bryce Canyon",10520,179
+"286","Mid",2014,"Death V.",14870,99
+"287","Mid",2014,"Gd. Canyon",15998,99
+"288","Mid",2014,"Gd. Teton",22278,227
+"289","Mid",2014,"Glacier",4374,144
+"290","Mid",2014,"Grt. Smoky Mts",5149,29
+"291","Mid",2014,"Joshua Tree",48339,161
+"292","Mid",2014,"Kings Canyon",17642,99
+"293","Mid",2014,"Mt Rainier",17371,55
+"294","Mid",2014,"Olympic",16158,174
+"295","Mid",2014,"Rocky Mt",13846,380
+"296","Mid",2014,"Sequoia",2819,78
+"297","Mid",2015,"Arches",79084,1045
+"298","Mid",2015,"Bryce Canyon",36782,299
+"299","Mid",2015,"Death V.",42863,171
+"300","Mid",2015,"Gd. Canyon",43100,128
+"301","Mid",2015,"Gd. Teton",322008,1183
+"302","Mid",2015,"Glacier",74250,348
+"303","Mid",2015,"Grt. Smoky Mts",4822,162
+"304","Mid",2015,"Joshua Tree",107128,202
+"305","Mid",2015,"Kings Canyon",22201,139
+"306","Mid",2015,"Mt Rainier",103507,317
+"307","Mid",2015,"Olympic",92914,657
+"308","Mid",2015,"Rocky Mt",377361,1051
+"309","Mid",2015,"Sequoia",100577,465
+"310","Mid",2016,"Arches",479204,5572
+"311","Mid",2016,"Bryce Canyon",510555,3160
+"312","Mid",2016,"Death V.",123442,2751
+"313","Mid",2016,"Gd. Canyon",1133472,5384
+"314","Mid",2016,"Gd. Teton",487677,6862
+"315","Mid",2016,"Glacier",641335,4442
+"316","Mid",2016,"Grt. Smoky Mts",55572,1378
+"317","Mid",2016,"Joshua Tree",398469,6391
+"318","Mid",2016,"Kings Canyon",1537371,2980
+"319","Mid",2016,"Mt Rainier",63110,3723
+"320","Mid",2016,"Olympic",988961,3616
+"321","Mid",2016,"Rocky Mt",424476,8466
+"322","Mid",2016,"Sequoia",1537167,2965
+"323","Mid",2017,"Arches",694191,9631
+"324","Mid",2017,"Bryce Canyon",152565,7851
+"325","Mid",2017,"Death V.",179372,7883
+"326","Mid",2017,"Gd. Canyon",930330,12845
+"327","Mid",2017,"Gd. Teton",428835,15093
+"328","Mid",2017,"Glacier",738180,13107
+"329","Mid",2017,"Grt. Smoky Mts",1254079,10137
+"330","Mid",2017,"Joshua Tree",343407,17979
+"331","Mid",2017,"Kings Canyon",224168,6226
+"332","Mid",2017,"Mt Rainier",484129,10405
+"333","Mid",2017,"Olympic",294629,6454
+"334","Mid",2017,"Rocky Mt",781421,16517
+"335","Mid",2017,"Sequoia",1117996,9996
+"336","Mid",2018,"Arches",248178,10255
+"337","Mid",2018,"Bryce Canyon",336278,10306
+"338","Mid",2018,"Death V.",294820,9561
+"339","Mid",2018,"Gd. Canyon",672259,13207
+"340","Mid",2018,"Gd. Teton",345131,15589
+"341","Mid",2018,"Glacier",584844,14391
+"342","Mid",2018,"Grt. Smoky Mts",398875,8012
+"343","Mid",2018,"Joshua Tree",1004006,17231
+"344","Mid",2018,"Kings Canyon",256427,5692
+"345","Mid",2018,"Mt Rainier",334076,11518
+"346","Mid",2018,"Olympic",318595,6496
+"347","Mid",2018,"Rocky Mt",503193,16719
+"348","Mid",2018,"Sequoia",302710,10251
+"349","Mid",2019,"Arches",310933,6178
+"350","Mid",2019,"Bryce Canyon",189100,5912
+"351","Mid",2019,"Death V.",581104,7143
+"352","Mid",2019,"Gd. Canyon",352714,9387
+"353","Mid",2019,"Gd. Teton",96948,11691
+"354","Mid",2019,"Glacier",341183,10821
+"355","Mid",2019,"Grt. Smoky Mts",46035,4826
+"356","Mid",2019,"Joshua Tree",416852,10342
+"357","Mid",2019,"Kings Canyon",68369,2654
+"358","Mid",2019,"Mt Rainier",93553,6623
+"359","Mid",2019,"Olympic",191684,4198
+"360","Mid",2019,"Rocky Mt",317245,10716
+"361","Mid",2019,"Sequoia",319775,5944
