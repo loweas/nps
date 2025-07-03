@@ -3,6 +3,14 @@
 ###### Ashley C. Lowe Mackenzie 
 ###### Steven J. Dundas 
 
+## Overview
+This repository is to accompany the submission of *Is a Photo Worth 1,000 Likes? The Influence of Instagram at National Parks.* It contains data and code for the work. Some data is only available on request due to file size. 
+
+
+#### Abstract / Summary Paragraph 
+Recent increases in recreational visits, staffing shortages, and maintenance backlogs have left public land agencies in the United States (US) facing multiple stressors that affect their ability to manage land sustainably(1,2). One supposition by traditional media outlets is that social media is the culprit for recent increases in visits and resource degradation on public lands. We test the validity of such claims and investigate how online engagement with content and user behavior on Instagram may connect to visitation trends at US National Parks(3–7). Using millions of georeferenced Instagram posts, we find a small, positive effect (5 to 7%) on visitation due to viral content and the presence of influencers at parks with moderate and high social media exposure. National parks with high exposure to Instagram see visitation increases from viral content regardless of who posts it, while parks in the moderate group see increases only from posts by influencers. We do not find evidence of a contemporaneous effect on visitation based on the volume of content posted to each park location. Our results suggest any causal connection between social media and visitation to public lands is likely through a behavioral channel, such as herd behavior or the bandwagon effect.  
+
+
 
 ### Analysis Code
 Replicates the various data visualizations across manuscrpit. Multiple Data analytic lanaguages where used.
