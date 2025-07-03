@@ -7,7 +7,7 @@
 ### Analysis Code
 Replicates the various data visualizations across manuscrpit. Multiple Data analytic lanaguages where used.
 
-1. Fig. 1 ~ Use  Data/Annual Summary Report (1904 - Last Calendar Year) (3).xlsx
+1. [Fig. 1](nps/Data_Publications/Data/Annual Summary Report (1904 - Last Calendar Year) (3).xlsx) ~ Use  Data/Annual Summary Report (1904 - Last Calendar Year) (3).xlsx
 2. Fig. 2 ~ Diagram Pictures/FrameworkInstagram.tiff
 3. Fig 3.a ~ Use /Analysis_Code/Figure3a.do. This file requires Stata. Use Data/Figure3a.dta. ***Note the dataset is to large for github - request datasets for running this code ***
 4. Fig 3.b ~ Use Analysis_Code/figure3b.ipynb. We use the Jupyter Notebook to generate Figure 3.b and the associated Extended Figure 3. This code implements a Random Forest machine learning algorithm to perform both classification and regression tasks. The model analyzes how various input variables influence predictive accuracy of the number likes, and the resulting importance matrix (also called the feature importance plot) highlights which variables contribute most to the model's performance. This allows us to identify the most influential predictors for like on each photo and to better understand the underlying drivers in the dataset.
